@@ -1,0 +1,28 @@
+Report a Bug:
+
+https://www.youtube.com/watch?v=Q0OJ7AN_LOI&ab_channel=TestingWorld
+
+2:
+
+Run in backgroung:
+
+testcafe chrome:headless ./tests
+
+3: 
+
+console.log("test me")
+
+4: 
+test.page'lllllllllllllllll'
+("My first test", async t=> {
+console.log("test me")
+})
+
+5:
+query selector example
+https://devbyrayray.medium.com/javascript-basics-select-one-or-multiple-html-elements-abe8040131b9
+
+
+6:  main page object model
+https://www.youtube.com/watch?v=rtw1x4fHyRs&list=PLYDwWPRvXB8_TDgPmQyMNjN6gaI8yS7KQ&index=10&ab_channel=joanmedia
+https://www.youtube.com/watch?v=rtw1x4fHyRs&list=PLYDwWPRvXB8_TDgPmQyMNjN6gaI8yS7KQ&index=10&ab_channel=joanmedia
